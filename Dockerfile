@@ -1,3 +1,3 @@
-OM ubuntu
+FROM ubuntu
 
 RUN touch file
